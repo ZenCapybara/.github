@@ -1,4 +1,4 @@
-# .github
+# ZenCapybara
 Small team of software developers and designers.
 Current projects:
 
